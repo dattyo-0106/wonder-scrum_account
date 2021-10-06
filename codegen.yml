@@ -24,3 +24,13 @@ generates:
   src/data/utilities/__generated__/fragmentTypes.json:
     plugins:
       - fragment-matcher
+
+
+        test
+
+
+        test
+
+        test
+
+        test
